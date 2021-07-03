@@ -59,3 +59,26 @@
 # color = "검정"
 # print(f"나는 {age}살이며, {color}색을 좋아합니다")
 
+#탈출문자
+#from os import replace
+#from typing import Counter
+
+
+#print("백문이 불여일견\n백견이 불여일타")
+#print("저는 \"노혁\" 입니다") 
+
+#print(r"/:\Users\1106노혁\Deskop\git\WEB1-1>")
+#print("Red apple\rpine") #\r 은 커서를 맨앞으로 이동시키는 역활을 한다 RED를 덮은다
+#print("Redd\bApple") # \b 앞 글자 하나 삭제 
+# \t 는 tab 역활
+ 
+#퀴즈
+#url = "http://naver.com"
+#url = "http://daum:net/
+#url = "http://youtube.com"
+
+#one = url.replace("http://","") # 규칙1
+#one = one[:one.index(".")] # 규칙2
+#password = one[:3] +str(len(one))+str(one.count("e"))+"!"# 규칙3
+
+#print("{0}의 비밀번호는 {1}입니다".format(url,one))
